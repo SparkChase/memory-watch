@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+*.app/
+*.dSYM/
+*.zip
+preview*.png
+*.log
+samples.jsonl
+incidents.json
